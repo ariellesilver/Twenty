@@ -52,3 +52,5 @@ var compscore = 0
 } while (play2 == "y")
 
 alert(`The final score for the computer is ${cscore}! Your final score is ${pscore}!`)
+
+// slay 
